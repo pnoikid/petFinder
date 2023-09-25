@@ -6,6 +6,7 @@ const App() {
 
   return (
     <>
+     <h1>Pet Finder</h1>
      
     </>
   )
